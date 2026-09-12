@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #0b172a;
+  background: #f6f9f8;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --green: #0b8f55;
+  --green-dark: #05603a;
+  --green-light: #e9f8f0;
+
+  --navy: #0b172a;
+  --navy-dark: #06101f;
+
+  --cyan: #18b7d8;
+  --cyan-light: #e8faff;
+
+  --background: #f6f9f8;
+  --white: #ffffff;
+
+  --text-primary: #0b172a;
+  --text-secondary: #5d6b7a;
+  --text-muted: #82909d;
+
+  --border: #dce6e2;
+
+  --danger: #dc2626;
+  --danger-light: #fef2f2;
+
+  --warning: #f59e0b;
+  --warning-light: #fffbeb;
+
+  --success: #16a34a;
+  --success-light: #f0fdf4;
+
+  --shadow-sm: 0 2px 8px rgba(11, 23, 42, 0.05);
+  --shadow-md: 0 12px 30px rgba(11, 23, 42, 0.08);
+  --shadow-lg: 0 24px 60px rgba(11, 23, 42, 0.12);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--background);
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--green);
+  color: white;
+}
