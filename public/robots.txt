@@ -5,4 +5,4 @@ Allow: /
 Disallow: /report
 
 # Sitemap location
-Sitemap: https://naijashield-ai.vercel.app/sitemap.xml
+Sitemap: https://naijashield-ai-app.vercel.app/sitemap.xml

@@ -3,7 +3,7 @@
 
   <!-- Home Page -->
   <url>
-    <loc>https://naijashield-ai.vercel.app/</loc>
+    <loc>https://naijashield-ai-app.vercel.app/</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- Message Analyzer -->
   <url>
-    <loc>https://naijashield-ai.vercel.app/analyze-message</loc>
+    <loc>https://naijashield-ai-app.vercel.app/analyze-message</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -19,7 +19,7 @@
 
   <!-- Link Checker -->
   <url>
-    <loc>https://naijashield-ai.vercel.app/check-link</loc>
+    <loc>https://naijashield-ai-app.vercel.app/check-link</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -27,7 +27,7 @@
 
   <!-- Screenshot Scanner -->
   <url>
-    <loc>https://naijashield-ai.vercel.app/scan-screenshot</loc>
+    <loc>https://naijashield-ai-app.vercel.app/scan-screenshot</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -35,7 +35,7 @@
 
   <!-- Report Page -->
   <url>
-    <loc>https://naijashield-ai.vercel.app/report</loc>
+    <loc>https://naijashield-ai-app.vercel.app/report</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
