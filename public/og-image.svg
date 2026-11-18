@@ -1,0 +1,49 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a2e1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0B8F55;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#064a2c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="badge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffa500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="200" fill="rgba(255,255,255,0.03)" />
+  <circle cx="150" cy="530" r="180" fill="rgba(255,255,255,0.03)" />
+  <circle cx="600" cy="315" r="400" fill="rgba(255,255,255,0.02)" />
+
+  <!-- Shield icon -->
+  <text x="600" y="195" text-anchor="middle" font-size="80" font-family="Arial">🛡️</text>
+
+  <!-- App Name -->
+  <text x="600" y="275" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="72" font-weight="900" fill="white" letter-spacing="2">NaijaShield AI</text>
+
+  <!-- Gold underline bar -->
+  <rect x="300" y="290" width="600" height="4" rx="2" fill="url(#badge)" />
+
+  <!-- Tagline -->
+  <text x="600" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.90)">Nigeria&#39;s Free AI-Powered Scam &amp; Fraud Detector</text>
+
+  <!-- Feature Pill 1 -->
+  <rect x="100" y="395" width="290" height="52" rx="26" fill="rgba(255,255,255,0.12)" stroke="rgba(255,215,0,0.4)" stroke-width="1.5"/>
+  <text x="245" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="white">📩 Message Analyzer</text>
+
+  <!-- Feature Pill 2 -->
+  <rect x="455" y="395" width="290" height="52" rx="26" fill="rgba(255,255,255,0.12)" stroke="rgba(255,215,0,0.4)" stroke-width="1.5"/>
+  <text x="600" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="white">🔗 Link Checker</text>
+
+  <!-- Feature Pill 3 -->
+  <rect x="810" y="395" width="290" height="52" rx="26" fill="rgba(255,255,255,0.12)" stroke="rgba(255,215,0,0.4)" stroke-width="1.5"/>
+  <text x="955" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="white">🖼️ Screenshot Scanner</text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="548" width="1200" height="82" fill="rgba(0,0,0,0.3)" />
+  <text x="600" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,215,0,0.9)" letter-spacing="2">CHECK BEFORE YOU CLICK  •  100% FREE  •  NO LOGIN REQUIRED  🇳🇬</text>
+</svg>

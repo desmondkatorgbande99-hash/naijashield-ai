@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block search engines from indexing the report page (contains user data)
+Disallow: /report
+
+# Sitemap location
+Sitemap: https://naijashield-ai.vercel.app/sitemap.xml
